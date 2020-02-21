@@ -1,0 +1,17 @@
+# PRIMEIRO PROJETO ANDROID EM KOTLIN
+<smal>Curso ministrado pela MadCode na Estação Hack do Facebook</smal>
+
+<h1><strong>OBJETIVO</strong></h1>
+
+Por em prática o conhecimento e as habilidades desenvolvidas ao longo do curso<br>
+como a manipulação de componentes, desenvolvimento de telas, solicitações de permissão de utilização de <br>
+recursos do dispositivo e mensagens interativas junto ao usuário.<br>
+<br>
+<br>
+<h1><strong>ESCOPO do projeto</strong></h1><br>
+ <br>
+Desenvolvimento de um aplicativo com acesso a sites pela internet e com componentes<br>
+ na parte superior para retornar ou posteriro do site/página, um botão home de redirecionamento para<br>
+um site escolhido pelo grupo, um campo de texto que permita escrever uma URL e um botão que busque o site <br>
+que foi inserido na URL e exiba dentro da tela do aplicativo o site.<br>
+ O aplicativo deve conseguir acessar sites seguros e não seguros dentro do aplicativo<br>
